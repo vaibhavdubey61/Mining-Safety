@@ -80,8 +80,8 @@ When cloning to a new machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vaibhavdubey61/mining-safety-crm.git
-cd mining-safety-crm
+git clone https://github.com/vaibhavdubey61/Mining-Safety.git
+cd Mining-Safety
 
 # 2. Install dependencies
 npm install
